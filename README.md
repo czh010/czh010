@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://github.com/czh010">
-    <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=600&size=24&color=d48a48&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+czh010.+Embedded+Developer." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=600&size=24&color=d48a48&center=true&vCenter=true&width=600&repeat=false&height=50&lines=Hi,+I'm+czh010.+Embedded+Developer." alt="Typing SVG" />
   </a>
   <br>
   <a href="https://github.com/czh010">
-    <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=500&size=16&color=d48a48&center=true&vCenter=true&width=800&height=40&lines=CS+undergraduate+%7C+Recreational+coder+%7C+Open-source+enthusiast." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=500&size=16&color=d48a48&center=true&vCenter=true&width=800&repeat=false&height=40&lines=CS+undergraduate+%7C+Recreational+coder+%7C+Open-source+enthusiast." alt="Typing SVG" />
   </a>
 </div>
 
