@@ -9,13 +9,11 @@
 </div>
 
 <div align="center" style="margin: 15px 0;">
-  <span style="background:#f0f0f0; padding:4px 8px; border-radius:4px; font-size:14px;">
-    🌸 乐于接受嵌入式开发相关的实习机会
-  </span>
-  <br>
-  <span style="background:#f0f0f0; padding:4px 8px; border-radius:4px; font-size:14px; margin-top:8px; display:inline-block;">
-    ⏳ Born 2005 | Across China / Remote
-  </span>
+  <img src="https://img.shields.io/badge/🌸_乐于接受嵌入式开发相关的实习机会-F4F4F5?style=flat&color=F4F4F5" alt="Internship" />
+  <br><br>
+  <img src="https://img.shields.io/badge/⏳_Born_2005-F4F4F5?style=flat&color=F4F4F5" alt="Born" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/📍_Across_China_%2F_Remote-F4F4F5?style=flat&color=F4F4F5" alt="Location" />
 </div>
 
 - 希望能通过GitHub提升自己的能力！QvQ
